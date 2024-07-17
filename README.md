@@ -146,3 +146,10 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+## homework
+1. chat4v
+    <https://github.com/chenke8/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb>
+2. 在ai translator中添加对其他语言和翻译方向的支持
+    <https://github.com/chenke8/openai-quickstart/blob/main/openai-translator/ai_translator/main.py>
+3. 扩展langchain chains
+    <https://github.com/chenke8/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb>
